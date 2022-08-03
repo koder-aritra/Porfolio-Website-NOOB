@@ -1,0 +1,25 @@
+img {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+body {
+    background-color: #D9D7F1;
+}
+
+hr {
+    background-color: white;
+    border-style: dotted none none;
+    width: 10%;
+    height: 0px;
+    border-width: 3px;
+}
+
+h1{
+    color: #66BFBF;
+}
+
+h3{
+    color: #66BFBF;
+}
